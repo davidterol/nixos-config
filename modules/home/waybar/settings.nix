@@ -33,7 +33,7 @@ in
       "hyprland/workspaces"
       "tray"
     ];
-    modules-center = [ "clock" ];
+#    modules-center = [ "clock" ];
     modules-right = [
       "cpu"
       "memory"
